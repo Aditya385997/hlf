@@ -8,7 +8,7 @@ version: "3"
 networks:
   test:
     external:
-      name: ingress
+      name: test
 
 services:
   ca_org1:
